@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-#Nothing really interesting, other than my first time doing a project specifically for the sole puropose of learning git, github and gitlab, and whatever comes in the way.
-
-##Some of the used commands
-
-'git init'\
-'git config --global'\
-'git config --local'\
-'git add'\
-'git commit'\
-'git log'
-=======
 # Readme file of my first Git project
 
 ## Introduction
@@ -34,4 +22,3 @@ I would like to thank the following resources for helping me learn Git and versi
 - [Git Documentation](https://git-scm.com/doc)
 - [GitHub Learning Lab](https://lab.github.com/)
 - [GitLab Learning Center](https://about.gitlab.com/learn/)
->>>>>>> dev

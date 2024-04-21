@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-##Nothing in here, browse the next file if you wish.
-=======
 # Release Notes of my first Git project
 
 ## Version 0.01
@@ -26,4 +23,3 @@ Here are some of the most commonly used Git commands:
 - `git merge`: Merges changes from one branch into another.
 - `git push`: Uploads local commits to a remote repository.
 - `git pull`: Downloads changes from a remote repository and merges them with the local
->>>>>>> dev
