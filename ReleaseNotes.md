@@ -1,7 +1,5 @@
 # Release Notes of my first Git project
 
-## Version 0.01_dev0.01
-
 ## Features
 - [ ] None so far.
 

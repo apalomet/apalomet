@@ -1,7 +1,7 @@
 # Readme file of my first Git project
 
-## Welcome to Version 0.01_dev0.01
-We have included the Version on the Readme file for the sole purpose to know were wer are at.
+## Version 0.01_dev0.01
+- [x] Added some basic notes on the Readme.md file. 
 
 ## Introduction
 This is the readme file for my first project dedicated to learning Git, GitHub, GitLab, and any other related tools. There's nothing particularly interesting here, but it marks an important step in my journey to master version control systems.
