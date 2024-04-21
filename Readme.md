@@ -2,9 +2,9 @@
 
 ##Some of the used commands
 
-'git init'
-'git config --global'
-'git config --local'
-'git add'
-'git commit'
-'git log'
+'git init'\
+'git config --global'\
+'git config --local'\
+'git add'\
+'git commit'\
+'git log'\
