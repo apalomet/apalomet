@@ -1,6 +1,6 @@
-#This is the Read me file of my first GIT project
+#Nothing really interesting, other than my first time doing a project specifically for the sole puropose of learning git, github and gitlab, and whatever comes in the way.
 
-##Comandos que hemos revisado
+##Some of the used commands
 
 'git init'
 'git config --global'
