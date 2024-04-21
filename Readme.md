@@ -7,4 +7,4 @@
 'git config --local'\
 'git add'\
 'git commit'\
-'git log'\
+'git log'
